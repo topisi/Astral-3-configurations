@@ -6,4 +6,4 @@ by Leah Wrenn Berman, Phili DeOrsey, Jill F. Faudree, Tomaž Pisanski and Arjana
 published in Discrete & Computational Geometry.
 
 1. There are two figures (png) that need to be in the same directory as the SageMath program.
-2. Date were prodused by an earlier version of this program.
+2. Data were prodused by an earlier version of this program.
