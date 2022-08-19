@@ -6,4 +6,11 @@ by Leah Wrenn Berman, Phili DeOrsey, Jill F. Faudree, Tomaž Pisanski and Arjana
 published in Discrete & Computational Geometry.
 
 1. There are two figures (png) that need to be in the same directory as the SageMath program.
-2. Data were prodused by an earlier version of this program.
+2. Some data were prodused by an earlier version of this program.
+  a. fromaper.zip contains examples from our paper
+  b. astral_tables continas for each m a file about parameters for configurations
+  c. figures contains two sufolders
+    pdf with figures in pdf
+    tikz with figures in latex + tikz.
+The program is in SageMath notebook.
+
