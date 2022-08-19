@@ -18,5 +18,5 @@ pdf with figures in pdf
 
 tikz with figures in latex + tikz.
 
-The program AstralChiral3Configurations.ipynb is a SageMath notebook.
+The program AstralChiral3Configurations.ipynb is a SageMath notebook and contains a program for drawing configurations.
 
