@@ -14,9 +14,10 @@ published in Discrete & Computational Geometry.
 
 2.3. figures contains two sufolders
 
-pdf with figures in pdf
+pdf with figures in pdf (from m = 5 to m = 16)
 
-tikz with figures in latex + tikz.
+tikz with figures in latex + tikz. (from m = 5 to m = 18, separately m = 19 and m = 20).
 
 The program AstralChiral3Configurations.ipynb is a SageMath notebook and contains a program for drawing configurations.
+
 
